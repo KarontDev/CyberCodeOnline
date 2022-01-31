@@ -24,20 +24,20 @@
  	"npc": {
  	 	"unitExchange": {
  	 	 	"name": {
- 	 	 	 	"trans": "Intercambio de unidades de Arasaka",
+ 	 	 	 	"trans": "Tienda de Unidades de Arasaka",
  	 	 	 	"eng": "Arasaka Unit Exchange"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Puedes comprar objetos de mejora global aquí",
+ 	 	 	 	"trans": "Puedes comprar Objetos de Mejora Global aquí.",
  	 	 	 	"eng": "You can purchase global buff items here"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas ser al menos nivel 3 para acceder a la unidad de intercambio",
+ 	 	 	 	"trans": "Necesitas ser Nivel 3 para acceder a la Tienda de Unidades.",
  	 	 	 	"eng": "You need to be at least level 3 to access unit exchange"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"¿Quieres comprar Unidades o utilizar tus Unidades?"
+ 	 	 	 	 	"¿Deseas comprar o utilizar Unidades?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -46,7 +46,7 @@
  	 	},
  	 	"cosmetic": {
  	 	 	"name": {
- 	 	 	 	"trans": "Ciberprendas cosméticas",
+ 	 	 	 	"trans": "Cibercosméticos",
  	 	 	 	"eng": "Cosmetic Cyberwear"
  	 	 	},
  	 	 	"tut": {
@@ -54,12 +54,12 @@
  	 	 	 	"eng": "If you liked the game, please consider donation :)"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas ser al menos nivel 3 para acceder al comerciante de cosméticos",
+ 	 	 	 	"trans": "Necesitas ser Nivel 3 para acceder al Comerciante de cosméticos.",
  	 	 	 	"eng": "You need to be at least level 3 to access cosmetic merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"¡Hola! Done para obtener ventajas cosméticas y para ayudar a apoyar juegos Free-to-Win como este."
+ 	 	 	 	 	"¡Hola! Puede donar para obtener cosméticos y apoyar juegos Free-to-Win como este."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -68,16 +68,16 @@
  	 	},
  	 	"printer": {
  	 	 	"name": {
- 	 	 	 	"trans": "Impresora Molecular 3D",
+ 	 	 	 	"trans": "Impresora Molecular 3d",
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Puedes utilizar tu caché para imprimir nuevo equipamiento aquí",
+ 	 	 	 	"trans": "Puedes utilizar Memorias para imprimir nuevo Equipo aquí",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"¡Imprimiré lo que quieras si tienes el caché!"
+ 	 	 	 	 	"¡Imprimiré lo que quieras si tienes la Memoria!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Encontrarás el mejor equipo aquí, créeme."
+ 	 	 	 	 	"Encontrarás el mejor Equipo aquí, créeme."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -104,20 +104,20 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Para progresar al área siguiente, necesitas obtener Fragmentos de Llave Secreta en las mazmorras, \r\n        y usar la Terminal para crear la llave para la próxima área",
+ 	 	 	 	"trans": "Para ingresar al área siguiente, necesitas obtener Fragmentos de Llave en las Mazmorras, \r\n        y usar la Terminal para crear la Llave e ingresar a la próxima área",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Tu ordenador personal, aunque es un poco anticuado, podría hacer el trabajo con la suficiente paciencia.",
+ 	 	 	 	"trans": "Tu computadora personal, aunque es un poco anticuada, puede hacer el trabajo con la suficiente paciencia.",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesita ser al menos nivel 5 para acceder al terminal",
+ 	 	 	 	"trans": "Necesita ser Nivel 5 para acceder a la Terminal",
  	 	 	 	"eng": "You need to be at least level 5 to access terminal"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"¡Te ayudaré a avanzar a la siguiente área!"
+ 	 	 	 	 	"¡Te ayudaré a ingresar a la siguiente área!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey chico ... Ven a ver mis productos."
+ 	 	 	 	 	"Hey chico..., ven a ver mis productos."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -144,12 +144,12 @@
  	 	 	 	"eng": "Bank of Arasaka"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas ser al menos nivel 5 para acceder al banco",
+ 	 	 	 	"trans": "Necesitas ser Nivel 5 para acceder al Banco",
  	 	 	 	"eng": "You need to be at least level 5 to access bank"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Bienvenidos. ¿Qué puedo almacenar para ti?"
+ 	 	 	 	 	"Bienvenido. ¿Qué puedo almacenar para ti?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -162,16 +162,16 @@
  	 	 	 	"eng": "Calibration Station"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Una mesa de trabajo con las herramientas necesarias te permitirá trabajar en tu equipamiento.",
+ 	 	 	 	"trans": "Una mesa de trabajo con las herramientas necesarias te permitirá modificar tu Equipo.",
  	 	 	 	"eng": "A workbench with the necessary tools allows you to tinker with your equipment."
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas ser al menos nivel 10 para acceder a la estación de calibración",
+ 	 	 	 	"trans": "Necesitas ser Nivel 10 para acceder a la Estación de Calibración",
  	 	 	 	"eng": "You need to be at least level 10 to access Calibration Station"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Inserte un núcleo de calibración en la máquina y le ayudara a calibrar cualquiera de sus equipos."
+ 	 	 	 	 	"Inserte un Núcleo de Calibración y te ayudaré a calibrar cualquiera de sus equipos."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -184,16 +184,16 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Una tienda de comercio familiar que te permite comerciar con lo que has recolectado",
+ 	 	 	 	"trans": "Una tienda familiar que te permite comerciar con lo que has recolectado.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
- 	 	 	 	"trans": "Necesitas ser al menos nivel 10 para acceder al comerciante",
+ 	 	 	 	"trans": "Necesitas ser Nivel 10 para acceder al Comerciante",
  	 	 	 	"eng": "You need to be at least level 10 to access merchant"
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hola chico, soy Lee. Sabes, no tienes que llevar todo lo que tienes en los bolsillos."
+ 	 	 	 	 	"Hola chico, soy Lee. Ya sabes, no tienes que llevar todo lo que tienes en los bolsillos."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
@@ -206,7 +206,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Recicladora totalmente automatizada, capaz de reciclar artículos a su forma básica de chatarra",
+ 	 	 	 	"trans": "Recicladora totalmente automatizada, capaz de reciclar artículos a su forma básica de Chatarra",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -232,7 +232,7 @@
  	 	 	 	"amount",
  	 	 	 	"levelName"
  	 	 	],
- 	 	 	"trans": "Usted recibió ${amount} ${levelName} puntos de experiencia",
+ 	 	 	"trans": "Usted recibió ${amount} ${levelName} Puntos de Experiencia",
  	 	 	"eng": "You received ${amount} ${levelName} experience points"
  	 	}
  	},
@@ -281,12 +281,12 @@
  	 	 	 	"eng": "Shangri-La City center"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Central Hub]\r\n        Una de las ciudades más ocupadas del continente. Aquí puedes encontrar a todo tipo de gente de alrededor del mundo.",
+ 	 	 	 	"trans": "[Central Hub]\r\n        Una de las ciudades más importantes del continente. Aquí puedes encontrar a todo tipo de gente de alrededor del mundo.",
  	 	 	 	"eng": "[Central Hub]\r\n        One of the busiest cities in the continent. Here you can find all sorts of people from around the globe."
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Ir a la Estación Central de Hiper Trenes",
+ 	 	 	 	 	"trans": "Ir a la Estación Central de HiperTrenes",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
@@ -294,7 +294,7 @@
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Ir a la Estación Central de Hiper Trenes",
+ 	 	 	 	 	"trans": "Ir a la Estación Central de HiperTrenes",
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	}
  	 	 	},
@@ -304,23 +304,23 @@
  	 	 	 	 	"eng": "Go to Shangri-La Commercial Area"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Aquí puedes completar actividades AFK para mejorar tus habilidades",
+ 	 	 	 	 	"trans": "Aquí puedes completar Actividades AFK para mejorar tus Habilidades",
  	 	 	 	 	"eng": "You can complete AFK jobs to increase your skills here"
  	 	 	 	}
  	 	 	},
  	 	 	"toMarket": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Ir a la calle comercial de Shangri-La",
+ 	 	 	 	 	"trans": "Ir a la Calle Comercial de Shangri-La",
  	 	 	 	 	"eng": "Go to Shangri-La Market Street"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Puedes vender o comprar objetos a otros jugadores aquí",
+ 	 	 	 	 	"trans": "Puedes vender o comprar Objetos a otros Jugadores aquí",
  	 	 	 	 	"eng": "You can sell or buy items from other players here"
  	 	 	 	}
  	 	 	},
  	 	 	"toGang": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Ir al cuartel general de la banda",
+ 	 	 	 	 	"trans": "Ir al Cuartel General de la Banda",
  	 	 	 	 	"eng": "Go to gang headquarters"
  	 	 	 	}
  	 	 	}
@@ -331,7 +331,7 @@
  	 	 	 	"eng": "Shangri-La Commercial Area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Job Hub]\r\n        Aquí hay muchas tiendas y negocios, un lugar perfecto para probar tus habilidades.",
+ 	 	 	 	"trans": "[Job Hub]\r\n        Aquí hay muchas tiendas y negocios, un lugar perfecto para probar tus Habilidades.",
  	 	 	 	"eng": "[Job Hub]\r\n        Here are many shops and businesses reside. The perfect location to hone and refine your skills."
  	 	 	},
  	 	 	"toMainHub": {
@@ -343,7 +343,7 @@
  	 	},
  	 	"market": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calle comercial de Shangri-La",
+ 	 	 	 	"trans": "Calle Comercial de Shangri-La",
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
@@ -359,7 +359,7 @@
  	 	},
  	 	"station": {
  	 	 	"name": {
- 	 	 	 	"trans": "Estación Central de Hiper Trenes",
+ 	 	 	 	"trans": "Estación Central de HiperTrenes",
  	 	 	 	"eng": "Hyper Train Central Station"
  	 	 	},
  	 	 	"description": {
@@ -402,11 +402,11 @@
  	 	 	},
  	 	 	"toStation": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Regresar a la Estación de Hiper Trenes",
+ 	 	 	 	 	"trans": "Regresar a la Estación de HiperTrenes",
  	 	 	 	 	"eng": "Return to Hyper Train Station"
  	 	 	 	},
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "de vuelta a la Estación de Hiper Trenes",
+ 	 	 	 	 	"trans": "de vuelta a la Estación de HiperTrenes",
  	 	 	 	 	"eng": "back to Hyper Train Station"
  	 	 	 	}
  	 	 	}
@@ -414,12 +414,12 @@
  	 	"segment": {
  	 	 	"locked": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Recolecta los 3 fragmentos distintos de una llave en las mazmorras de las 3 zonas de la estación anterior, \r\n                    luego ve a [Terminal] en el Centro de la Ciudad [Centro] para descifrar (Fabricar) la llave requerida para desbloquear esta área",
+ 	 	 	 	 	"trans": "Recolecta los 3 Fragmentos de Llave en las Mazmorras de las 3 zonas en la estación anterior, \r\n                    luego ve a [Terminal] en el Centro de la Ciudad [Centro] para descifrar (Fabricar) la llave requerida para desbloquear esta área",
  	 	 	 	 	"eng": "Gather all 3 different Key Fragments from Dungeons in each 3 zones in previous station, \r\n                    then go to [Terminal] at City Center [Hub] to brute-force (Craft) the key required to unlock this area"
  	 	 	 	}
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Empieza con la zona de niveles 1 a 10",
+ 	 	 	 	"trans": "Empieza con la zona de Niveles 1 a 10",
  	 	 	 	"eng": "Start with level 1 to 10 area"
  	 	 	},
  	 	 	"toZone": {
@@ -427,7 +427,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Continua aquí para combatir con enemigos de nivel 1",
+ 	 	 	 	 	"trans": "Continua aquí para combatir con enemigos de Nivel 1",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
@@ -467,11 +467,11 @@
  	 	 	 	"eng": "Gang Headquarters"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Gang]\r\n        El cuartel general para que tú y los miembros de tu banda planifiquen y ejecuten su próxima operación",
+ 	 	 	 	"trans": "[Gang]\r\n        El Cuartel General, donde tú y los otros miembros pueden planificar su próxima operación",
  	 	 	 	"eng": "[Gang]\r\n        The headquarters for you and your gang members to plan and execute your next operation"
  	 	 	},
  	 	 	"cantEnterError": {
- 	 	 	 	"trans": "Necesitas unirte a una banda para entrar en esta área",
+ 	 	 	 	"trans": "Necesitas unirte a una Banda para entrar en esta área",
  	 	 	 	"eng": "You need to join a gang to enter this area"
  	 	 	}
  	 	}
@@ -482,14 +482,14 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Fragmento de Experiencia [${levelName}]",
+ 	 	 	 	"trans": "Cápsula de Experiencia [${levelName}]",
  	 	 	 	"eng": "Experience Shard [${levelName}]"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Un fragmento que contiene las memorias y experiencias de alguien, si lo usas podrás ganar ${levelName} experiencia de esto",
+ 	 	 	 	"trans": "Un fragmento que contiene las memorias y experiencias de alguien, si lo usas podrás ganar ${levelName} EXP de esto",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -506,7 +506,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Un Fragmento de Llave Secreta, Úsalo para descifrar una llave secreta.\r\n                                Usa el Terminal en el Centro de la Ciudad [Centro] para descifrar una llave secreta ${segmentDisplayName}.\r\n                                Puedes adquirir cada una de las 3 llaves requeridas en cada mazmorra (ambas normal y desafiante),\r\n                                cuando adquieras las 3 llaves, podrás usar la Terminal para descifrar (Fabricar) una llave para el siguiente área",
+ 	 	 	 	"trans": "Un Fragmento de Llave, Úsalo para descifrar una Llave Secreta.\r\n                                Usa la Terminal en el Centro de la Ciudad [Centro] para descifrar una Llave Secreta ${segmentDisplayName}.\r\n                                Puedes adquirir cada una de los 3 Fragmentos en cada Mazmorra (ambas normal y desafiante),\r\n                                cuando adquieras los 3 Fragmentos, podrás usar la Terminal para descifrar (Fabricar) una llave para el siguiente área",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -516,14 +516,14 @@
  	 	 	 	 	"tierName",
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Caché de ${typeName} ${tierName}",
+ 	 	 	 	"trans": "Memoria de ${typeName} ${tierName}",
  	 	 	 	"eng": "${tierName} ${typeName} cache"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Un caché de ${typeName} contiene información usada para la Impresión 3D Molecular, \r\n                    Puedes crear un ${typeName} con la [Molecular 3d Printer] en el [Central Hub].\r\n                    \r\n                    Consejo: El nivel del objeto impreso se determina según tu rango de impresión,\r\n                    así que imprime siempre la basura primero, cuestan menos y son útiles para subir tu rango de impresión",
+ 	 	 	 	"trans": "Una Memoria de ${typeName} contiene información usada para la Impresión 3D Molecular, \r\n                    Puedes crear un ${typeName} con la [Molecular 3d Printer] en el [Central Hub].\r\n                    \r\n                    Consejo: El nivel del objeto impreso se determina según tu rango de impresión,\r\n                    así que imprime siempre la basura primero, cuestan menos y son útiles para subir tu rango de impresión",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -559,7 +559,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calmante",
+ 	 	 	 	"trans": "Pain Away",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -569,137 +569,137 @@
  	 	},
  	 	"healing2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot de Reparación deteriorado",
+ 	 	 	 	"trans": "NanoBot de Reparación deteriorado",
  	 	 	 	"eng": "Degraded Nano Repair Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un nano bot viejo de reparación, usualmente utilizado para reparar pequeños dispositivos tecnológicos",
+ 	 	 	 	"trans": "Un viejo NanoBot de Reparación, usualmente utilizado para reparar pequeños dispositivos tecnológicos",
  	 	 	 	"eng": "An old nano repair bot, usually used to repair small tech devices."
  	 	 	}
  	 	},
  	 	"healing3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico Deteriorado",
+ 	 	 	 	"trans": "NanoBot Médico deteriorado",
  	 	 	 	"eng": "Degraded Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano bot médico viejo, ¡inyectalo para curar cualquier herida!(*aplican condiciones)",
+ 	 	 	 	"trans": "Viejo NanoBot médico viejo usado para curar cualquier (*aplican condiciones) herida",
  	 	 	 	"eng": "Old nano medic bot is used to cure any (*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico",
+ 	 	 	 	"trans": "NanoBot Médico",
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¡Inyéctalo para curar cualquier herida!(*aplican condiciones)",
+ 	 	 	 	"trans": "¡Inyéctalo para curar cualquier (*aplican condiciones) herida!",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
  	 	"healing5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico Militar",
+ 	 	 	 	"trans": "NanoBot Médico Militar",
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano máquinas inyectables de uso militar estándar. Son capaces de curar heridas durante el combate",
+ 	 	 	 	"trans": "Nanomáquinas inyectables de uso militar estándar. Son capaces de curar heridas durante el combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico Avanzado",
+ 	 	 	 	"trans": "NanoBot Médico Avanzado",
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano máquinas inyectables de uso militar estándar. Son capaces de curar heridas durante el combate.",
+ 	 	 	 	"trans": "Nanomáquinas inyectables de uso militar. Son capaces de curar heridas durante el combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico de Alta Calidad",
+ 	 	 	 	"trans": "NanoBot Médico de Alta Calidad",
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano máquinas inyectables de uso militar avanzado, capaces de curar heridas en combate",
+ 	 	 	 	"trans": "Nanomáquinas inyectables de uso militar. Son capaces de curar heridas en combate.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healing8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Bot Médico Raro",
+ 	 	 	 	"trans": "NanoBot Médico Raro",
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "nano maquinas de uso militar avanzado, capaces de curar heridas en combate",
+ 	 	 	 	"trans": "Nanomáquinas inyectables de uso militar. Son capaces de curar heridas en combate",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Calmante en Aerosol",
+ 	 	 	 	"trans": "Pain Away Spray",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "¿Tienen tú y tu amigo dolor de cabeza? ¡Usa Pain Away en Aerosol™ para aliviar tu dolor!",
+ 	 	 	 	"trans": "¿Tus amigos y tú tienen dolor de cabeza? ¡Usa Pain Away Spray™ para aliviar su dolor!",
  	 	 	 	"eng": "Do you and your friends both have headaches? Use Pain Away Spray™ to relief your pain!"
  	 	 	}
  	 	},
  	 	"healingArea2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Dron de Reparación Deteriorado",
+ 	 	 	 	"trans": "Dron de Reparación deteriorado",
  	 	 	 	"eng": "Degraded Repair drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dron de reparación viejo, capaz de reparar o curar a jugadores cercanos",
+ 	 	 	 	"trans": "Dron de Reparación viejo, capaz de reparar o curar a jugadores cercanos",
  	 	 	 	"eng": "Old repair drone, capable of repairing or heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico deteriorado",
+ 	 	 	 	"trans": "NanoDron Médico deteriorado",
  	 	 	 	"eng": "Degraded nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Nano dron viejo, capaz de desplegar miles de nano máquinas para curar a jugadores cercanos",
+ 	 	 	 	"trans": "NanoDron viejo, capaz de desplegar miles de nanomáquinas para curar a jugadores cercanos",
  	 	 	 	"eng": "Old nano drone, capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico",
+ 	 	 	 	"trans": "NanoDron médico",
  	 	 	 	"eng": "Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Capaz de desplegar miles de nano máquinas para curar a jugadores cercanos",
+ 	 	 	 	"trans": "Capaz de desplegar miles de nanomáquinas para curar a jugadores cercanos",
  	 	 	 	"eng": "capable of dispatching thousands of nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano Dron Médico Militar",
+ 	 	 	 	"trans": "NanoDron Médico Militar",
  	 	 	 	"eng": "Military Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Capaz de desplegar miles de nano máquinas militares para curar a jugadores cercanos",
+ 	 	 	 	"trans": "Capaz de desplegar miles de nanomáquinas militares para curar a jugadores cercanos",
  	 	 	 	"eng": "capable of dispatching thousands of military nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico Avanzado",
+ 	 	 	 	"trans": "NanoDron médico Avanzado",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Capaz de desplegar miles de nano máquinas avanzadas para curar a jugadores cercanos",
+ 	 	 	 	"trans": "Capaz de desplegar miles de nanomáquinas avanzadas para curar a jugadores cercanos",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
  	 	"healingArea7": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico de Alta Calidad",
+ 	 	 	 	"trans": "NanoDron médico de Alta Calidad",
  	 	 	 	"eng": "High Quality Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -709,7 +709,7 @@
  	 	},
  	 	"healingArea8": {
  	 	 	"name": {
- 	 	 	 	"trans": "Nano dron médico Raro",
+ 	 	 	 	"trans": "NanoDron médico Raro",
  	 	 	 	"eng": "Rare Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -719,7 +719,7 @@
  	 	},
  	 	"medicalTechParts": {
  	 	 	"name": {
- 	 	 	 	"trans": "Partes de tecnología médica",
+ 	 	 	 	"trans": "Partes de Tecnología Médica",
  	 	 	 	"eng": "Medical Tech Parts"
  	 	 	},
  	 	 	"description": {
@@ -729,11 +729,11 @@
  	 	},
  	 	"expMemory": {
  	 	 	"name": {
- 	 	 	 	"trans": "Memoria de Experiencia",
+ 	 	 	 	"trans": "Disco de Experiencia",
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Banco de memoria que contiene las memorias de alguien, si lo usas podrías ganar experiencia de esto",
+ 	 	 	 	"trans": "Banco de memoria que contiene las memorias de alguien, si lo usas podrías ganar EXP de esto",
  	 	 	 	"eng": "Memory bank contains someone's memory. If used you may gain experience from this"
  	 	 	}
  	 	},
@@ -743,7 +743,7 @@
  	 	 	 	"eng": "Hash Processor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Se puede usar como un hardware dedicado para minar BitCoins, \r\n        aunque debido al overclocking, el procesador se sobrecalienta con facilidad,\r\n        Puedes usar esto para minar BitCoins en [CENTRO DE TRABAJO]",
+ 	 	 	 	"trans": "Se puede usar como un hardware dedicado para minar BitCoins, \r\n        aunque debido al overclocking, el Procesador se sobrecalienta con facilidad,\r\n        Puedes usar esto para minar BitCoins en [CENTRO DE TRABAJO]",
  	 	 	 	"eng": "Can be used as a dedicated hardware for BitCoin mining, \r\n        however due to overclocking, the processor is easily burntout,\r\n        You may use this to mine BitCoin at [JOB HUB]"
  	 	 	}
  	 	},
@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos, lo que permite una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar trabajos AFK un +5% más rapido durante 10 minutos (acumulable)",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos, lo que permite una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar Actividades AFK un +5% más rapido durante 10 minutos (acumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -763,7 +763,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos permitiendo una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar trabajos AFK un  +40% más rapido durante 20 minutos (acumulable)",
+ 	 	 	 	"trans": "Transmite ventajas a todos los usuarios ciberneticamente conectados, overclockea sus procesadores sinápticos permitiendo una capacidad mental super-humana por un corto periodo de tiempo.\r\n        \r\n        Otorga una Mejora Global a todos los jugadores en línea cuando se usa, permitiendoles completar Actividades AFK un +40% más rapido durante 20 minutos (acumulable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -796,7 +796,7 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Unidad de Procesamiento Neurológico (NPU) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un bot que recoja recursos en las mazmorras",
+ 	 	 	 	"trans": "Unidad de Procesamiento Neurológico (NPU) de uso comercial. Viene con una IA para diferentes usos. \r\n        Puedes usarla para desplegar un Bot que recoja recursos en las Mazmorras",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
@@ -806,7 +806,7 @@
  	 	 	 	"eng": "Energy Cell"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Dispositivo de almacenamiento de energía portátil, Lo puedes usar como munición desechable para tus armas especiales",
+ 	 	 	 	"trans": "Dispositivo de almacenamiento de energía portátil, Lo puedes usar como Munición desechable para tus Armas Especiales",
  	 	 	 	"eng": "Portable energy storage device, it can be used as consumable ammo for your Special Weapons"
  	 	 	}
  	 	},
@@ -816,71 +816,71 @@
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Generador miniatura de energía antimateria de alta tecnología, de un solo uso. \r\n        Este objeto produce cantidades enormes de energía. Puedes usarlo como munición para tu arma destructiva. ",
+ 	 	 	 	"trans": "Generador miniatura de energía antimateria de alta tecnología, de un solo uso. \r\n        Este objeto produce cantidades enormes de energía. Puedes usarlo como Munición para tu Arma Destructiva. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
  	 	"ammoTech1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Partes tecnológicas de munición",
+ 	 	 	 	"trans": "Partes Tecnológicas de Munición",
  	 	 	 	"eng": "Ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Partes tecnológicas de munición, es común verlas en el mercado negro. \r\n        Puedes usarlas para construir munición si sabes como hacerlo.",
+ 	 	 	 	"trans": "Partes Tecnológicas de Munición, es común verlas en el mercado negro. \r\n        Puedes usarlas para construir Munición si sabes como hacerlo.",
  	 	 	 	"eng": "Ammunition tech parts, These can be commonly found circulating the black market. \r\n        You can use these to craft ammunition if you understand how."
  	 	 	}
  	 	},
  	 	"ammoTech2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Partes tecnológicas de munición militar",
+ 	 	 	 	"trans": "Partes Tecnológicas de Munición Militar",
  	 	 	 	"eng": "Military ammunition tech parts"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Partes tecnológicas de munición de tipo militar que comúnmente usa el gobierno, milicias y las élites, las puedes usar para construir munición si sabes cómo hacerlo",
+ 	 	 	 	"trans": "Partes Tecnológicas de Munición de tipo militar que comúnmente usa el gobierno, milicias y las élites, las puedes usar para construir Munición si sabes cómo hacerlo",
  	 	 	 	"eng": "Military grade ammunition tech parts, commonly used by government, military and the elites,can be used to craft into usable Ammo if you have the know-how"
  	 	 	}
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Chatarra tecnológica",
+ 	 	 	 	"trans": "Chatarra Tecnológica",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Chatarra tecnológica de equipamiento desmontado, puedes usarlo para conseguir EXP de impresión mediante la ingeniería inversa. \r\n        Puedes realizar ingeniería inversa en el centro de trabajo.",
+ 	 	 	 	"trans": "Chatarra Tecnológica de equipamiento desmontado, puedes usarlo para conseguir EXP de Impresión mediante la ingeniería inversa. \r\n        Puedes realizar ingeniería inversa en el Centro de Trabajo.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
  	 	"primaryWeapon": {
  	 	 	"name": {
- 	 	 	 	"trans": "Arma primaría",
+ 	 	 	 	"trans": "Arma Primaría",
  	 	 	 	"eng": "Primary Weapon"
  	 	 	}
  	 	},
  	 	"secondary": {
  	 	 	"name": {
- 	 	 	 	"trans": "Arma especial",
+ 	 	 	 	"trans": "Arma Especial",
  	 	 	 	"eng": "Special Weapon"
  	 	 	}
  	 	},
  	 	"tertiary": {
  	 	 	"name": {
- 	 	 	 	"trans": "Arma destructiva",
+ 	 	 	 	"trans": "Arma Destructiva",
  	 	 	 	"eng": "Destructive Weapon"
  	 	 	}
  	 	},
  	 	"lootBox1": {
  	 	 	"name": {
- 	 	 	 	"trans": "contenedor bloqueado",
+ 	 	 	 	"trans": "Contenedor loqueado",
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Un contenedor reforzado con cerradura de encriptación biométrica, parece contener elementos importantes en su interior.\r\n        Por suerte, el microordenador de a bordo se está ejecutando con un firmware obsoleto, lo que hace posible instalar un hack, ve a [Terminal] para desbloquear este contenedor",
+ 	 	 	 	"trans": "Un contenedor reforzado con cerradura de encriptación biométrica, parece contener elementos importantes en su interior.\r\n        Por suerte, el microordenador de a bordo se está ejecutando con un firmware obsoleto, lo que hace posible instalar un hack, ve a [Terminal] para desbloquear este Contenedor",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
  	 	"lootBox2": {
  	 	 	"name": {
- 	 	 	 	"trans": "contenedor raro bloqueado",
+ 	 	 	 	"trans": "Contenedor Raro bloqueado",
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
@@ -890,7 +890,7 @@
  	 	},
  	 	"lootBox3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Contenedor legendario bloqueado",
+ 	 	 	 	"trans": "Contenedor Legendario bloqueado",
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
@@ -900,7 +900,7 @@
  	 	},
  	 	"clanDungeonKey": {
  	 	 	"name": {
- 	 	 	 	"trans": "Transmisor de orden de invasión de pandillas",
+ 	 	 	 	"trans": "Transmisor de orden invasora de pandillas",
  	 	 	 	"eng": "Gang Invasion Order Transmitter"
  	 	 	},
  	 	 	"description": {
@@ -914,7 +914,7 @@
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contiene artículos varios y recursos para que la banda permanezca funcional,\r\n        Haz click en usar para enviarlo al cuartel general de tu banda",
+ 	 	 	 	"trans": "Contiene artículos varios y recursos para que la Banda permanezca funcional,\r\n        Haz click en usar para enviarlo al Cuartel General de tu Banda",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarters"
  	 	 	}
  	 	},
@@ -1084,7 +1084,7 @@
  	 	 	 	"eng": "Calibration AI Shard (50%) [EVENT]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Contiene fragmentos de una avanzada IA diseñada para ayudar con la actualizacion de equipamiento. \r\n        Al usarlo, disminuye la posibilidad de falla destructiva en un 50% durante 5 minutos. Esto solo tiene efecto en ti. \r\n         Puede calibrar artículos en el Cuartel General de la banda, debes unirte o comenzar una banda primero.",
+ 	 	 	 	"trans": "Contiene fragmentos de una avanzada IA diseñada para ayudar con la actualizacion de equipamiento. \r\n        Al usarlo, disminuye la posibilidad de falla crítica en un 50% durante 5 minutos. Esto solo tiene efecto en ti. \r\n         Puede calibrar artículos en el Cuartel General de la Banda, debes unirte o comenzar una banda primero.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% for 5 minutes. this only affect yourself.\r\n        You can calibrate items in your Gang Headquarters, you must join or start a gang first."
  	 	 	}
  	 	},
@@ -2824,7 +2824,7 @@
  	 	 	},
  	 	 	"playerNameInput": {
  	 	 	 	"label": {
- 	 	 	 	 	"trans": "Nombre del personaje",
+ 	 	 	 	 	"trans": "Nombre de Personaje",
  	 	 	 	 	"eng": "Character Name"
  	 	 	 	},
  	 	 	 	"description": {
@@ -5240,7 +5240,7 @@
  	 	 	 	"eng": "Lethal"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Provocas un mayor daño a la Banda Animal. Recibe un mayor daño por la Banda de Carroñeros.",
+ 	 	 	 	"trans": "Provocas un mayor daño a la Banda Animal. Recibes un mayor daño por la Banda de Carroñeros.",
  	 	 	 	"eng": "deals increased damage to Animals gang. receives increased damage from Scavengers gang."
  	 	 	}
  	 	},
@@ -5250,7 +5250,7 @@
  	 	 	 	"eng": "Disruptor"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Provocas un mayor daño a la banda de los Chicos Vudú. Recibe un mayor daño de la Banda Animal.",
+ 	 	 	 	"trans": "Provocas un mayor daño a la banda de los Chicos Vudú. Recibes un mayor daño de la Banda Animal.",
  	 	 	 	"eng": "deals increased damage to Voodoo Boys gang. receives increased damage from Animals gang."
  	 	 	}
  	 	},
@@ -5260,7 +5260,7 @@
  	 	 	 	"eng": "Makeshift"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Provocas un mayor daño a la Banda de Carroñeros. Recibe un mayor daño de la Banda de los niños vudú.",
+ 	 	 	 	"trans": "Provocas un mayor daño a la Banda de Carroñeros. Recibes un mayor daño de la Banda de los niños vudú.",
  	 	 	 	"eng": "deals increased damage to Scavengers gang. receives increased damage from Voodoo Boys gang."
  	 	 	}
  	 	}
@@ -5274,7 +5274,7 @@
  	 	},
  	 	"gang2": {
  	 	 	"displayName": {
- 	 	 	 	"trans": "Chicos vudú",
+ 	 	 	 	"trans": "Chicos Vudú",
  	 	 	 	"eng": "Voodoo boys"
  	 	 	}
  	 	},
@@ -5291,7 +5291,7 @@
  	 	 	"eng": "Member"
  	 	},
  	 	"donation2": {
- 	 	 	"trans": "Donatario",
+ 	 	 	"trans": "Donador",
  	 	 	"eng": "Donator"
  	 	},
  	 	"donation3": {
